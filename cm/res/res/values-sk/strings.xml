@@ -37,7 +37,7 @@
   <string name="permdesc_modifyProfiles">Umožňuje aplikácii upraviť systémové profily.</string>
   <!-- Labels for the HARDWARE_ABSTRACTION_ACCESS permission. -->
   <string name="permlab_useHardwareFramework">používať hardvérový framework</string>
-  <string name="permdesc_useHardwareFramework">Umožňuje aplikácii pristupovať k hardvérovému frameworku CM.</string>
+  <string name="permdesc_useHardwareFramework">Umožňuje aplikácii pristupovať k hardvérovému frameworku Vanir.</string>
   <!-- Labels for the WRITE_ALARMS permission. -->
   <string name="permlab_write_alarms">priamo zmeniť budíky</string>
   <string name="permdesc_write_alarms">Umožňuje aplikácii pridať, upraviť alebo odstrániť všetky vaše budíky.</string>
@@ -48,11 +48,11 @@
   <string name="permlab_read_alarms">prístup k naplánovaným budíkom</string>
   <string name="permdesc_read_alarms">Umožňuje aplikácii čítať vaše naplánované budíky.</string>
   <!-- Labels for the WRITE_SETTINGS permission -->
-  <string name="permlab_writeSettings">upraviť systémové nastavenia CM</string>
-  <string name="permdesc_writeSettings">Umožňuje aplikácii zmeniť systémové nastavenia CM.</string>
+  <string name="permlab_writeSettings">upraviť systémové nastavenia Vanir</string>
+  <string name="permdesc_writeSettings">Umožňuje aplikácii zmeniť systémové nastavenia Vanir.</string>
   <!-- Labels for the WRITE_SECURE_SETTINGS permission -->
-  <string name="permlab_writeSecureSettings">upraviť zabezpečené systémové nastavenia CM</string>
-  <string name="permdesc_writeSecureSettings">Umožňuje aplikácii zmeniť zabezpečené systémové nastavenia CM. Nie je určené pre normálne aplikácie.</string>
+  <string name="permlab_writeSecureSettings">upraviť zabezpečené systémové nastavenia Vanir</string>
+  <string name="permdesc_writeSecureSettings">Umožňuje aplikácii zmeniť zabezpečené systémové nastavenia Vanir. Nie je určené pre normálne aplikácie.</string>
   <!-- Labels for the MANAGE_PERSISTENT_STORAGE permission. -->
   <string name="permlab_managePersistentStorage">spravovať trvalé úložisko</string>
   <string name="permdesc_managePersistentStorage">Umožňuje aplikácii čítanie alebo zápis vlastností, ktoré môžu pretrvávať po obnove továrenských nastavení.</string>

@@ -48,11 +48,11 @@
   <string name="permlab_read_alarms">acceder ás alarmas programadas</string>
   <string name="permdesc_read_alarms">Permítellee a unha aplicación ler todas as alarmas que teña programadas.</string>
   <!-- Labels for the WRITE_SETTINGS permission -->
-  <string name="permlab_writeSettings">modificar os axustes de CM do sistema</string>
-  <string name="permdesc_writeSettings">Permítelle a unha aplicación modificar os axustes de CM do sistema.</string>
+  <string name="permlab_writeSettings">modificar os axustes de Vanir do sistema</string>
+  <string name="permdesc_writeSettings">Permítelle a unha aplicación modificar os axustes de Vanir do sistema.</string>
   <!-- Labels for the WRITE_SECURE_SETTINGS permission -->
-  <string name="permlab_writeSecureSettings">modificar a configuración de seguridade do sistema CM</string>
-  <string name="permdesc_writeSecureSettings">Permítelle a unha aplicación modificar a configuración de seguridade do sistema CM. As aplicacións normais non deberían utilizar este permiso.</string>
+  <string name="permlab_writeSecureSettings">modificar a configuración de seguridade do sistema Vanir</string>
+  <string name="permdesc_writeSecureSettings">Permítelle a unha aplicación modificar a configuración de seguridade do sistema Vanir. As aplicacións normais non deberían utilizar este permiso.</string>
   <!-- Labels for the MANAGE_PERSISTENT_STORAGE permission. -->
   <string name="permlab_managePersistentStorage">Xestionar almacenamento persistente</string>
   <string name="permdesc_managePersistentStorage">Permítelle a unha aplicación ler ou escribir propiedades que poden persisitir tras unha restauración de fábrica.</string>

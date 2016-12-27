@@ -33,7 +33,7 @@
   <!-- Labels for the MODIFY_PROFILES permission. -->
   <!-- Labels for the HARDWARE_ABSTRACTION_ACCESS permission. -->
   <string name="permlab_useHardwareFramework">kasutada riistvara raamistikku</string>
-  <string name="permdesc_useHardwareFramework">Annab rakendusele ligipääsu CM riistvara raamistikule.</string>
+  <string name="permdesc_useHardwareFramework">Annab rakendusele ligipääsu Vanir riistvara raamistikule.</string>
   <!-- Labels for the WRITE_ALARMS permission. -->
   <!-- Labels for the MANAGE_ALARMS permission. -->
   <!-- Labels for the READ_ALARMS permission. -->

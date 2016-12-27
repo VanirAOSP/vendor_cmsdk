@@ -37,7 +37,7 @@
   <string name="permdesc_modifyProfiles">อนุญาตให้แอปปรับแต่งโปรไฟล์ระบบ</string>
   <!-- Labels for the HARDWARE_ABSTRACTION_ACCESS permission. -->
   <string name="permlab_useHardwareFramework">ใช้ฮาร์ดแวร์เฟรมเวิร์ค</string>
-  <string name="permdesc_useHardwareFramework">อนุญาตให้แอพเข้าถึง CM ฮาร์ดแวร์เฟรมเวิร์ค</string>
+  <string name="permdesc_useHardwareFramework">อนุญาตให้แอพเข้าถึง Vanir ฮาร์ดแวร์เฟรมเวิร์ค</string>
   <!-- Labels for the WRITE_ALARMS permission. -->
   <string name="permlab_write_alarms">เปลี่ยนการปลุกเตือนโดยตรง</string>
   <string name="permdesc_write_alarms">อนุญาตให้แอปเพิ่ม ปรับแต่ง หรือลบการปลุกเตือนทั้งหมดของคุณ</string>
@@ -48,11 +48,11 @@
   <string name="permlab_read_alarms">การเข้าถึงการปลุกเตือนที่กำหนดไว้</string>
   <string name="permdesc_read_alarms">อนุญาตให้แอปอ่านการปลุกเตือนที่กำหนดไว้</string>
   <!-- Labels for the WRITE_SETTINGS permission -->
-  <string name="permlab_writeSettings">ปรับแต่งการตั้งค่าระบบ CM</string>
-  <string name="permdesc_writeSettings">อนุญาตให้แอปปรับการตั้งค่าระบบ CM</string>
+  <string name="permlab_writeSettings">ปรับแต่งการตั้งค่าระบบ Vanir</string>
+  <string name="permdesc_writeSettings">อนุญาตให้แอปปรับการตั้งค่าระบบ Vanir</string>
   <!-- Labels for the WRITE_SECURE_SETTINGS permission -->
-  <string name="permlab_writeSecureSettings">ปรับแต่งการตั้งค่าระบบความปลอดภัยของ CM</string>
-  <string name="permdesc_writeSecureSettings">อนุญาตให้แอปปรับแต่งการตั้งค่าระบบความปลอดภัยของ CM ไม่ใช่เพื่อให้แอปปกตินำไปใช้</string>
+  <string name="permlab_writeSecureSettings">ปรับแต่งการตั้งค่าระบบความปลอดภัยของ Vanir</string>
+  <string name="permdesc_writeSecureSettings">อนุญาตให้แอปปรับแต่งการตั้งค่าระบบความปลอดภัยของ Vanir ไม่ใช่เพื่อให้แอปปกตินำไปใช้</string>
   <!-- Labels for the MANAGE_PERSISTENT_STORAGE permission. -->
   <string name="permlab_managePersistentStorage">จัดการพื้นที่จัดเก็บถาวร</string>
   <string name="permdesc_managePersistentStorage">อนุญาตให้แอปอ่านหรือเขียนคุณสมบัติซึ่งอาจยังมีอยู่จากการรีเซ็ตของโรงงาน</string>

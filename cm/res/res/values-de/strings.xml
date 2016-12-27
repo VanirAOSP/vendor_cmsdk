@@ -37,7 +37,7 @@
   <string name="permdesc_modifyProfiles">Ermöglicht der App, Systemprofile zu ändern.</string>
   <!-- Labels for the HARDWARE_ABSTRACTION_ACCESS permission. -->
   <string name="permlab_useHardwareFramework">Hardware-Framework verwenden</string>
-  <string name="permdesc_useHardwareFramework">Ermöglicht der App, auf das CM-Hardware-Framework zuzugreifen.</string>
+  <string name="permdesc_useHardwareFramework">Ermöglicht der App, auf das Vanir-Hardware-Framework zuzugreifen.</string>
   <!-- Labels for the WRITE_ALARMS permission. -->
   <string name="permlab_write_alarms">Alarme direkt ändern</string>
   <string name="permdesc_write_alarms">Ermöglicht der App das Hinzufügen, Ändern oder Löschen Ihrer Alarme.</string>
@@ -48,11 +48,11 @@
   <string name="permlab_read_alarms">auf geplante Alarme zugreifen</string>
   <string name="permdesc_read_alarms">Ermöglicht der App, Ihre geplanten Alarme auszulesen.</string>
   <!-- Labels for the WRITE_SETTINGS permission -->
-  <string name="permlab_writeSettings">CM-Systemeinstellungen ändern</string>
-  <string name="permdesc_writeSettings">Ermöglicht der App, CM-Systemeinstellungen zu ändern.</string>
+  <string name="permlab_writeSettings">Vanir-Systemeinstellungen ändern</string>
+  <string name="permdesc_writeSettings">Ermöglicht der App, Vanir-Systemeinstellungen zu ändern.</string>
   <!-- Labels for the WRITE_SECURE_SETTINGS permission -->
-  <string name="permlab_writeSecureSettings">CM-Sicherheits-Systemeinstellungen ändern</string>
-  <string name="permdesc_writeSecureSettings">Ermöglicht der App, CM-Sicherheits-Systemeinstellungen zu ändern. Nicht für die Nutzung durch normale Anwendungen bestimmt.</string>
+  <string name="permlab_writeSecureSettings">Vanir-Sicherheits-Systemeinstellungen ändern</string>
+  <string name="permdesc_writeSecureSettings">Ermöglicht der App, Vanir-Sicherheits-Systemeinstellungen zu ändern. Nicht für die Nutzung durch normale Anwendungen bestimmt.</string>
   <!-- Labels for the MANAGE_PERSISTENT_STORAGE permission. -->
   <string name="permlab_managePersistentStorage">permanenten Speicher verwalten</string>
   <string name="permdesc_managePersistentStorage">Ermöglicht der App, Eigenschaften auszulesen oder zu speichern, die auch beim Zurücksetzen auf die Werkseinstellungen erhalten bleiben können.</string>

@@ -37,7 +37,7 @@
   <string name="permdesc_modifyProfiles">Dopušta aplikaciji da izmijeni profile sustava.</string>
   <!-- Labels for the HARDWARE_ABSTRACTION_ACCESS permission. -->
   <string name="permlab_useHardwareFramework">koristi hardware framework</string>
-  <string name="permdesc_useHardwareFramework">Dopušta aplikaciji pristupiti CM hardware framework.</string>
+  <string name="permdesc_useHardwareFramework">Dopušta aplikaciji pristupiti Vanir hardware framework.</string>
   <!-- Labels for the WRITE_ALARMS permission. -->
   <string name="permlab_write_alarms">izravno promijeni alarme</string>
   <string name="permdesc_write_alarms">Dopušta aplikaciji dodavanje, izmijenu ili brisanje svih alarma.</string>
@@ -48,11 +48,11 @@
   <string name="permlab_read_alarms">pristup zakazanim alarmima</string>
   <string name="permdesc_read_alarms">Dopušta aplikaciji čitati zakazane alarme.</string>
   <!-- Labels for the WRITE_SETTINGS permission -->
-  <string name="permlab_writeSettings">izmijeni postavke sustava CM</string>
-  <string name="permdesc_writeSettings">Dopušta aplikaciji da izmijeni postavke sustava CM.</string>
+  <string name="permlab_writeSettings">izmijeni postavke sustava Vanir</string>
+  <string name="permdesc_writeSettings">Dopušta aplikaciji da izmijeni postavke sustava Vanir.</string>
   <!-- Labels for the WRITE_SECURE_SETTINGS permission -->
-  <string name="permlab_writeSecureSettings">promijeni CM postavke sigurnosti sustava</string>
-  <string name="permdesc_writeSecureSettings">Dopušta aplikaciji da promjeni CM postavke sigurnosti sustava. Nije za korištenje kod normalnih aplikacija.</string>
+  <string name="permlab_writeSecureSettings">promijeni Vanir postavke sigurnosti sustava</string>
+  <string name="permdesc_writeSecureSettings">Dopušta aplikaciji da promjeni Vanir postavke sigurnosti sustava. Nije za korištenje kod normalnih aplikacija.</string>
   <!-- Labels for the MANAGE_PERSISTENT_STORAGE permission. -->
   <string name="permlab_managePersistentStorage">upravljanje stalnom pohranom</string>
   <string name="permdesc_managePersistentStorage">Dopušta aplikaciji čitati ili pisati svojstva koja ostaju poslije resetiranja na tvorničke postavke.</string>

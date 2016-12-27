@@ -37,7 +37,7 @@
   <string name="permdesc_modifyProfiles">Επιτρέπει σε μια εφαρμογή να τροποποιεί τα προφίλ του συστήματος.</string>
   <!-- Labels for the HARDWARE_ABSTRACTION_ACCESS permission. -->
   <string name="permlab_useHardwareFramework">χρήση του πλαισίου υλικού</string>
-  <string name="permdesc_useHardwareFramework">Επιτρέπει σε μια εφαρμογή την πρόσβαση στο πλαίσιο υλικού του CM.</string>
+  <string name="permdesc_useHardwareFramework">Επιτρέπει σε μια εφαρμογή την πρόσβαση στο πλαίσιο υλικού του Vanir.</string>
   <!-- Labels for the WRITE_ALARMS permission. -->
   <string name="permlab_write_alarms">άμεση επεξεργασία αφυπνίσεων</string>
   <string name="permdesc_write_alarms">Επιτρέπει σε μια εφαρμογή να προσθέσει, να τροποποιήσει ή να διαγράψει όλες τις αφυπνίσεις.</string>
@@ -48,11 +48,11 @@
   <string name="permlab_read_alarms">ανάγνωση προγραμματισμένων αφυπνίσεων</string>
   <string name="permdesc_read_alarms">Επιτρέπει σε μια εφαρμογή να διαβάσει τις προγραμματισμένες αφυπνίσεις.</string>
   <!-- Labels for the WRITE_SETTINGS permission -->
-  <string name="permlab_writeSettings">τροποποίηση ρυθμίσεων συστήματος CM</string>
-  <string name="permdesc_writeSettings">Επιτρέπει σε μια εφαρμογή να τροποποιεί τις ρυθμίσεις συστήματος του CM.</string>
+  <string name="permlab_writeSettings">τροποποίηση ρυθμίσεων συστήματος Vanir</string>
+  <string name="permdesc_writeSettings">Επιτρέπει σε μια εφαρμογή να τροποποιεί τις ρυθμίσεις συστήματος του Vanir.</string>
   <!-- Labels for the WRITE_SECURE_SETTINGS permission -->
-  <string name="permlab_writeSecureSettings">τροποποίηση ασφαλών ρυθμίσεων συστήματος CM</string>
-  <string name="permdesc_writeSecureSettings">Επιτρέπει σε μια εφαρμογή να τροποποιεί τις ασφαλείς ρυθμίσεις συστήματος του CM. Δεν χρησιμοποιείται από κανονικές εφαρμογές.</string>
+  <string name="permlab_writeSecureSettings">τροποποίηση ασφαλών ρυθμίσεων συστήματος Vanir</string>
+  <string name="permdesc_writeSecureSettings">Επιτρέπει σε μια εφαρμογή να τροποποιεί τις ασφαλείς ρυθμίσεις συστήματος του Vanir. Δεν χρησιμοποιείται από κανονικές εφαρμογές.</string>
   <!-- Labels for the MANAGE_PERSISTENT_STORAGE permission. -->
   <string name="permlab_managePersistentStorage">διαχείριση επίμονου χώρου αποθήκευσης</string>
   <string name="permdesc_managePersistentStorage">Επιτρέπει σε μια εφαρμογή να διαβάσει ή να γράψει ιδιότητες που μπορούν να επιμείνουν ακόμη και μετά από μια επαναφορά εργοστασιακών ρυθμίσεων.</string>

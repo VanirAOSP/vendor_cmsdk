@@ -33,7 +33,7 @@
   <!-- Labels for the MODIFY_PROFILES permission. -->
   <!-- Labels for the HARDWARE_ABSTRACTION_ACCESS permission. -->
   <string name="permlab_useHardwareFramework">Hardware-Framework benotzen</string>
-  <string name="permdesc_useHardwareFramework">Erlaabt der App, den Accès op den CM-Hardware-Framework.</string>
+  <string name="permdesc_useHardwareFramework">Erlaabt der App, den Accès op den Vanir-Hardware-Framework.</string>
   <!-- Labels for the WRITE_ALARMS permission. -->
   <!-- Labels for the MANAGE_ALARMS permission. -->
   <!-- Labels for the READ_ALARMS permission. -->

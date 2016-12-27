@@ -37,7 +37,7 @@
   <string name="permdesc_modifyProfiles">Hiermee kan de app systeemprofielen wijzigen.</string>
   <!-- Labels for the HARDWARE_ABSTRACTION_ACCESS permission. -->
   <string name="permlab_useHardwareFramework">hardware-framework gebruiken</string>
-  <string name="permdesc_useHardwareFramework">Hiermee kan de app toegang krijgen tot het hardware-framework van CM.</string>
+  <string name="permdesc_useHardwareFramework">Hiermee kan de app toegang krijgen tot het hardware-framework van Vanir.</string>
   <!-- Labels for the WRITE_ALARMS permission. -->
   <string name="permlab_write_alarms">rechtstreeks alarmen wijzigen</string>
   <string name="permdesc_write_alarms">Hiermee kan de app alarmen toevoegen, bewerken of verwijderen.</string>
@@ -48,11 +48,11 @@
   <string name="permlab_read_alarms">toegang tot geplande alarmen</string>
   <string name="permdesc_read_alarms">Hiermee kan de app uw geplande alarmen lezen.</string>
   <!-- Labels for the WRITE_SETTINGS permission -->
-  <string name="permlab_writeSettings">CM-systeeminstellingen wijzigen</string>
-  <string name="permdesc_writeSettings">Hiermee kan de app de systeeminstellingen van CM wijzigen.</string>
+  <string name="permlab_writeSettings">Vanir-systeeminstellingen wijzigen</string>
+  <string name="permdesc_writeSettings">Hiermee kan de app de systeeminstellingen van Vanir wijzigen.</string>
   <!-- Labels for the WRITE_SECURE_SETTINGS permission -->
-  <string name="permlab_writeSecureSettings">beveiligde CM-systeeminstellingen wijzigen</string>
-  <string name="permdesc_writeSecureSettings">Hiermee kan de app de beveiligde systeeminstellingen van CM wijzigen. Niet voor gebruik door normale apps.</string>
+  <string name="permlab_writeSecureSettings">beveiligde Vanir-systeeminstellingen wijzigen</string>
+  <string name="permdesc_writeSecureSettings">Hiermee kan de app de beveiligde systeeminstellingen van Vanir wijzigen. Niet voor gebruik door normale apps.</string>
   <!-- Labels for the MANAGE_PERSISTENT_STORAGE permission. -->
   <string name="permlab_managePersistentStorage">blijvende opslag beheren</string>
   <string name="permdesc_managePersistentStorage">Hiermee kan de app eigenschappen lezen of schrijven die blijven bestaan na terugzetten naar fabrieksinstellingen.</string>

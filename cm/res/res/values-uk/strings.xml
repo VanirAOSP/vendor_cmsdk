@@ -45,8 +45,8 @@
   <string name="permlab_read_alarms">доступ до запланованих будильників</string>
   <string name="permdesc_read_alarms">Дозволяє програмі читати заплановані сигнали будильника.</string>
   <!-- Labels for the WRITE_SETTINGS permission -->
-  <string name="permlab_writeSettings">змінювати налаштування CM</string>
-  <string name="permdesc_writeSettings">Дозволяє додатку змінювати системні налаштування CM.</string>
+  <string name="permlab_writeSettings">змінювати налаштування Vanir</string>
+  <string name="permdesc_writeSettings">Дозволяє додатку змінювати системні налаштування Vanir.</string>
   <!-- Labels for the WRITE_SECURE_SETTINGS permission -->
   <string name="permlab_writeSecureSettings">змінювати налаштування безпеки</string>
   <string name="permdesc_writeSecureSettings">Дозволяє додатку змінювати системні налаштування безпеки. Непотрібно звичайним додаткам.</string>

@@ -51,7 +51,7 @@
   <string name="permlab_writeSettings">Изменение параметров системы</string>
   <string name="permdesc_writeSettings">Приложение сможет изменять параметры системы СМ.</string>
   <!-- Labels for the WRITE_SECURE_SETTINGS permission -->
-  <string name="permlab_writeSecureSettings">Изменение параметров безопасности системы CM</string>
+  <string name="permlab_writeSecureSettings">Изменение параметров безопасности системы Vanir</string>
   <string name="permdesc_writeSecureSettings">Приложение сможет изменять параметры безопасности системы. Это разрешение не используется обычными приложениями.</string>
   <!-- Labels for the MANAGE_PERSISTENT_STORAGE permission. -->
   <string name="permlab_managePersistentStorage">Управление хранилищем ПЗУ</string>

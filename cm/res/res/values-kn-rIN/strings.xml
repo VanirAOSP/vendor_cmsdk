@@ -37,7 +37,7 @@
   <string name="permdesc_modifyProfiles">ಒಂದು ಆಪ್‍ಗೆ ಸಿಸ್ಟಂ ಪ್ರೊಫೈಲ್‍ಗಳನ್ನು ಮಾರ್ಪಡಿಸಲು ಅನುಮತಿಸುತ್ತದೆ.</string>
   <!-- Labels for the HARDWARE_ABSTRACTION_ACCESS permission. -->
   <string name="permlab_useHardwareFramework">ಹಾರ್ಡ್‍ವೇರ್ ಫ್ರೇಮ್‍ವರ್ಕ್ ಉಪಯೋಗಿಸು</string>
-  <string name="permdesc_useHardwareFramework">ಒಂದು ಆಪ್ CM ಹಾರ್ಡ್‍ವೇರ್ ಫ್ರೇಮ್‍ವರ್ಕನ್ನು ಪ್ರವೇಶಿಸಲು ಅನುಮತಿಸುತ್ತದೆ.</string>
+  <string name="permdesc_useHardwareFramework">ಒಂದು ಆಪ್ Vanir ಹಾರ್ಡ್‍ವೇರ್ ಫ್ರೇಮ್‍ವರ್ಕನ್ನು ಪ್ರವೇಶಿಸಲು ಅನುಮತಿಸುತ್ತದೆ.</string>
   <!-- Labels for the WRITE_ALARMS permission. -->
   <string name="permlab_write_alarms">ಅಲಾರಂಗಳನ್ನು ನೇರವಾಗಿ ಬದಲಿಸು</string>
   <string name="permdesc_write_alarms">ಒಂದು ಆಪ್‍ಗೆ ನಿಮ್ಮ ಎಲ್ಲಾ ಅಲಾರಂಗಳನ್ನು ಅಳಿಸಲು, ಸೇರಿಸಲು, ಅಥವ ಮಾರ್ಪಡಿಸಲು ಅನುಮತಿಸುತ್ತದೆ.</string>
@@ -48,11 +48,11 @@
   <string name="permlab_read_alarms">ನಿಗದಿಪಡಿಸಿದ ಅಲಾರಂಗಳನ್ನು ಪ್ರವೇಶಿಸು</string>
   <string name="permdesc_read_alarms">ಒಂದು ಆಪ್‍ಗೆ ನಿಮ್ಮ ನಿಗದಿಪಡಿಸಿದ ಅಲಾರಂಗಳನ್ನು ಓದಲು ಅನುಮತಿಸುತ್ತದೆ.</string>
   <!-- Labels for the WRITE_SETTINGS permission -->
-  <string name="permlab_writeSettings">CM ಸಿಸ್ಟಂ ಸೆಟ್ಟಿಂಗ್ಸನ್ನು ಮಾರ್ಪಡಿಸು</string>
-  <string name="permdesc_writeSettings">ಒಂದು ಆಪ್‍ಗೆ CM ಸಿಸ್ಟಂ ಸೆಟ್ಟಿಂಗ್ಸನ್ನು ಮಾರ್ಪಡಿಸಲು ಅನುಮತಿಸುತ್ತದೆ.</string>
+  <string name="permlab_writeSettings">Vanir ಸಿಸ್ಟಂ ಸೆಟ್ಟಿಂಗ್ಸನ್ನು ಮಾರ್ಪಡಿಸು</string>
+  <string name="permdesc_writeSettings">ಒಂದು ಆಪ್‍ಗೆ Vanir ಸಿಸ್ಟಂ ಸೆಟ್ಟಿಂಗ್ಸನ್ನು ಮಾರ್ಪಡಿಸಲು ಅನುಮತಿಸುತ್ತದೆ.</string>
   <!-- Labels for the WRITE_SECURE_SETTINGS permission -->
-  <string name="permlab_writeSecureSettings">CM ಸುರಕ್ಷಿತ ಸೆಟ್ಟಿಂಗ್ಸನ್ನು ಮಾರ್ಪಡಿಸು</string>
-  <string name="permdesc_writeSecureSettings">ಒಂದು ಆಪ್‍ಗೆ CM ಸುರಕ್ಷಿತ ಸೆಟ್ಟಿಂಗ್ಸನ್ನು ಮಾರ್ಪಡಿಸಲು ಅನುಮತಿಸುತ್ತದೆ. ಸಾಮಾನ್ಯ ಆಪ್‍ಗಳ ಬಳಕೆಗಲ್ಲ.</string>
+  <string name="permlab_writeSecureSettings">Vanir ಸುರಕ್ಷಿತ ಸೆಟ್ಟಿಂಗ್ಸನ್ನು ಮಾರ್ಪಡಿಸು</string>
+  <string name="permdesc_writeSecureSettings">ಒಂದು ಆಪ್‍ಗೆ Vanir ಸುರಕ್ಷಿತ ಸೆಟ್ಟಿಂಗ್ಸನ್ನು ಮಾರ್ಪಡಿಸಲು ಅನುಮತಿಸುತ್ತದೆ. ಸಾಮಾನ್ಯ ಆಪ್‍ಗಳ ಬಳಕೆಗಲ್ಲ.</string>
   <!-- Labels for the MANAGE_PERSISTENT_STORAGE permission. -->
   <string name="permlab_managePersistentStorage">ನಿರಂತರ ಸಂಗ್ರಹಣೆ ನಿರ್ವಹಿಸು</string>
   <string name="permdesc_managePersistentStorage">ಒಂದು ಆಪ್‍ಗೆ ಪ್ರಾಪರ್ಟೀಸನ್ನು ರೀಡ್/ವ್ರೈಟ್ ಮಾಡಲು ಅನುಮತಿಸುತ್ತದೆ ಅದು ಫ್ಯಾಕ್ಟರಿ ಮರುಹೊಂದಿಕೆಯ ನಂತರವೂ ಮುಂದುವರೆಯಬಹುದು.</string>

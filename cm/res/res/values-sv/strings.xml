@@ -48,11 +48,11 @@
   <string name="permlab_read_alarms">åtkomst till schemalagda alarm</string>
   <string name="permdesc_read_alarms">Tillåt att en app läser dina schemalagda alarm.</string>
   <!-- Labels for the WRITE_SETTINGS permission -->
-  <string name="permlab_writeSettings">ändra CM systeminställningar</string>
-  <string name="permdesc_writeSettings">Tillåt att en app ändrar CM systeminställningar.</string>
+  <string name="permlab_writeSettings">ändra Vanir systeminställningar</string>
+  <string name="permdesc_writeSettings">Tillåt att en app ändrar Vanir systeminställningar.</string>
   <!-- Labels for the WRITE_SECURE_SETTINGS permission -->
-  <string name="permlab_writeSecureSettings">ändra CM säkra systeminställningar</string>
-  <string name="permdesc_writeSecureSettings">Tillåt att en app ändrar CM säkra systeminställningar. Inte för användning av normala appar.</string>
+  <string name="permlab_writeSecureSettings">ändra Vanir säkra systeminställningar</string>
+  <string name="permdesc_writeSecureSettings">Tillåt att en app ändrar Vanir säkra systeminställningar. Inte för användning av normala appar.</string>
   <!-- Labels for the MANAGE_PERSISTENT_STORAGE permission. -->
   <string name="permlab_managePersistentStorage">hantera beständig lagring</string>
   <string name="permdesc_managePersistentStorage">Tillåt att en app läser och skriver egenskaper som kan kvarstå efter en fabriksåterställning.</string>
