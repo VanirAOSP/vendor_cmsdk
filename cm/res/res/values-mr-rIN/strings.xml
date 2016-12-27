@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for the CyanogenMod system components when they are shown to the user. -->
-  <string name="cyanogenmod_system_label">CyanogenMod सिस्टिम</string>
+  <string name="cyanogenmod_system_label">Vanir सिस्टिम</string>
   <string name="permlab_publishCustomTile">जलद सेटिंग्ज पॅनेलमध्ये एक सानुकूल टाईल तयार करा</string>
   <string name="permdesc_publishCustomTile">अॅपला एक जलद सेटिंग्ज टाईल प्रकाशित करण्याची परवानगी देते.</string>
   <string name="permlab_modifyNetworkSettings">सिस्टिम नेटवर्क सेटिंग्ज बदला</string>

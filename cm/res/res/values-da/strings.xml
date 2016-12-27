@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for the CyanogenMod system components when they are shown to the user. -->
-  <string name="cyanogenmod_system_label">CyanogenMod System</string>
+  <string name="cyanogenmod_system_label">Vanir System</string>
   <string name="permlab_publishCustomTile">opret en brugerdefineret flise i panelet til hurtige indstillinger</string>
   <string name="permdesc_publishCustomTile">Tillader en app at lave en flise med hurtig indstilling.</string>
   <string name="permlab_modifyNetworkSettings">ændre indstillinger for system netværk</string>

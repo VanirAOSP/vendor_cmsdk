@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for the CyanogenMod system components when they are shown to the user. -->
-  <string name="cyanogenmod_system_label">CyanogenMod Stelsel</string>
+  <string name="cyanogenmod_system_label">Vanir Stelsel</string>
   <string name="permlab_publishCustomTile">Skep \'n persoonlike teël binne die vinnige instellings paneel</string>
   <string name="permdesc_publishCustomTile">Laat \'n program toe om \'n vinnige instellings teël te publiseer.</string>
   <string name="permlab_modifyNetworkSettings">verander stelsel se netwerk instellings</string>

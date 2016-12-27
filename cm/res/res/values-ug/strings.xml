@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for the CyanogenMod system components when they are shown to the user. -->
-  <string name="cyanogenmod_system_label">CyanogenMod سىستېمىسى</string>
+  <string name="cyanogenmod_system_label">Vanir سىستېمىسى</string>
   <string name="permlab_publishCustomTile">تىز تەكشەك تاختىسىدا خاسلاشتۇرۇلغان خىش قۇرۇش</string>
   <string name="permdesc_publishCustomTile">ئەپنىڭ بىر تىز تەڭشەك خىشى قۇرۇشىغا رۇخسەت قىلىش.</string>
   <string name="permlab_modifyNetworkSettings">سىستېمىنىڭ تور تەڭشىنى ئۆزگەرتىش</string>

@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for the CyanogenMod system components when they are shown to the user. -->
-  <string name="cyanogenmod_system_label">CyanogenMod 시스템</string>
+  <string name="cyanogenmod_system_label">Vanir 시스템</string>
   <string name="permlab_publishCustomTile">빠른 설정 패널에 사용자 정의 타일 생성</string>
   <string name="permdesc_publishCustomTile">앱이 빠른 설정 타일을 만들 수 있도록 허용합니다.</string>
   <string name="permlab_modifyNetworkSettings">시스템 네트워크 설정 변경</string>

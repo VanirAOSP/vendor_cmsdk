@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for the CyanogenMod system components when they are shown to the user. -->
-  <string name="cyanogenmod_system_label">CyanogenMod sustav</string>
+  <string name="cyanogenmod_system_label">Vanir sustav</string>
   <string name="permlab_publishCustomTile">stvorite prilagođenu pločicu u brzim postavkama</string>
   <string name="permdesc_publishCustomTile">Omogućuje aplikaciji da objavi brzo postavljanje pločica.</string>
   <string name="permlab_modifyNetworkSettings">promijenite postavke mrežnog sustava</string>

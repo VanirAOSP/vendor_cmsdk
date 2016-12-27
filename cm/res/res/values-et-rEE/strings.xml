@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for the CyanogenMod system components when they are shown to the user. -->
-  <string name="cyanogenmod_system_label">CyanogenMod Süsteem</string>
+  <string name="cyanogenmod_system_label">Vanir Süsteem</string>
   <string name="permlab_publishCustomTile">loo kohandatud tahvel kiirseadete paneelil</string>
   <string name="permdesc_publishCustomTile">Lubab rakendusel avaldada kiirseadete tahvli.</string>
   <string name="permlab_modifyNetworkSettings">süsteemi võrgusätete muutmine</string>

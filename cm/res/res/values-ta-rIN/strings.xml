@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for the CyanogenMod system components when they are shown to the user. -->
-  <string name="cyanogenmod_system_label">CyanogenMod அமைப்பு</string>
+  <string name="cyanogenmod_system_label">Vanir அமைப்பு</string>
   <string name="permlab_publishCustomTile">விரைவு அமைப்புகள் பேனல் உள்ளே ஒரு தனிப்பயன் டைலை உருவாக்கு</string>
   <string name="permdesc_publishCustomTile">ஒரு பயன்பாடானது ஒரு விரைவு அமைப்புகள் டைலை பிரசுரிக்க அனுமதிக்கிறது.</string>
   <string name="permlab_modifyNetworkSettings">அமைப்பின் நெட்வொர்க் அமைப்புகளை மாற்றுதல்</string>
