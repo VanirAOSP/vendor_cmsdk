@@ -18,7 +18,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for the LineageOS system components when they are shown to the user. -->
-  <string name="cyanogenmod_system_label">Système LineageOS</string>
+  <string name="cyanogenmod_system_label">Système Vanir</string>
   <string name="permlab_publishCustomTile">créer un raccourci personnalisé dans la fenêtre de configuration rapide</string>
   <string name="permdesc_publishCustomTile">Autorise une application à insérer un raccourci de configuration rapide.</string>
   <string name="permlab_modifyNetworkSettings">modifier les paramètres réseau du système</string>

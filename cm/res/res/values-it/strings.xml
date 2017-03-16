@@ -18,7 +18,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for the LineageOS system components when they are shown to the user. -->
-  <string name="cyanogenmod_system_label">Sistema LineageOS</string>
+  <string name="cyanogenmod_system_label">Sistema Vanir</string>
   <string name="permlab_publishCustomTile">creare un tile personalizzato all\'interno del pannello Impostazioni rapide</string>
   <string name="permdesc_publishCustomTile">Consenti ad un\'app di pubblicare un tile personalizzato.</string>
   <string name="permlab_modifyNetworkSettings">modifica le impostazioni di rete di sistema</string>

@@ -18,7 +18,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for the LineageOS system components when they are shown to the user. -->
-  <string name="cyanogenmod_system_label">Systém LineageOS</string>
+  <string name="cyanogenmod_system_label">Systém Vanir</string>
   <string name="permlab_publishCustomTile">vytvoriť vlastnú dlaždicu v paneli rýchlych nastavení</string>
   <string name="permdesc_publishCustomTile">Umožňuje aplikácii vytvoriť dlaždicu v rýchlych nastaveniach.</string>
   <string name="permlab_modifyNetworkSettings">zmeniť systémové nastavenia siete</string>

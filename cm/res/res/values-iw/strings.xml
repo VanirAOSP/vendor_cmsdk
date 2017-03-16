@@ -18,7 +18,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for the LineageOS system components when they are shown to the user. -->
-  <string name="cyanogenmod_system_label">מערכת LineageOS</string>
+  <string name="cyanogenmod_system_label">מערכת Vanir</string>
   <string name="permlab_publishCustomTile">צור אריח מותאם אישית בתוך לוח ההגדרות המהירות</string>
   <string name="permdesc_publishCustomTile">מאפשר ליישום לפרסם אריח הגדרות מותאם אישית.</string>
   <string name="permlab_modifyNetworkSettings">שנה את הגדרות הרשת של המערכת</string>

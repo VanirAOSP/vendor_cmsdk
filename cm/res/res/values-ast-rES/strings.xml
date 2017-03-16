@@ -18,7 +18,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for the LineageOS system components when they are shown to the user. -->
-  <string name="cyanogenmod_system_label">Sistema LineageOS</string>
+  <string name="cyanogenmod_system_label">Sistema Vanir</string>
   <string name="permdesc_publishCustomTile">Permite qu\'una aplicación espublize una caxella d\'axustes rápidos.</string>
   <string name="permdesc_modifyNetworkSettings">Permite qu\'una aplicación faiga camudancies al mou avión y a los axustes de la rede de datos móviles.</string>
   <string name="permdesc_modifySoundSettings">Permite qu\'una aplicación faiga camudancies a los axustes de soníu del mou d\'interrupción.</string>
